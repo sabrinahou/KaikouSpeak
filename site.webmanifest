@@ -1,0 +1,19 @@
+{
+  "name": "开口说英语 / KaikouSpeak",
+  "short_name": "KaikouSpeak",
+  "description": "场景 Mission 英语学习 App，把真实生活任务拆成单词、句子、对话和开口练习。",
+  "lang": "zh-CN",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8fbff",
+  "theme_color": "#0f2a66",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

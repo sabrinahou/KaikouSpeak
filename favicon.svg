@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="KaikouSpeak">
+  <defs>
+    <linearGradient id="g" x1="10" y1="8" x2="54" y2="58" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#123c8c" />
+      <stop offset="1" stop-color="#10a7c8" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#g)" />
+  <path d="M18 44V18h8v10l11-10h10L35 30l13 14H37L26 32v12h-8Z" fill="#fff" />
+  <path d="M18 48h28" stroke="#aeeeff" stroke-width="4" stroke-linecap="round" />
+</svg>
