@@ -67,6 +67,8 @@ for (const screenshot of [
   "assets/screens-jpg/app-home-airport.jpg",
   "assets/screens-jpg/app-scene-library.jpg",
   "assets/screens-jpg/app-ordering-food-overview.jpg",
+  "assets/screens/app-mission-reservation.png",
+  "assets/screens/app-mission-practice.png",
   "assets/screens-jpg/app-mission-practice.jpg",
   "assets/screens-jpg/app-roleplay.jpg"
 ]) {

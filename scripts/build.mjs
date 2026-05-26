@@ -40,6 +40,9 @@ for (const file of files) {
 
 await mkdir("dist/assets/screens-jpg", { recursive: true });
 await cp("assets/screens-jpg", "dist/assets/screens-jpg", { recursive: true });
+await mkdir("dist/assets/screens", { recursive: true });
+await cp("assets/screens/app-mission-reservation.png", "dist/assets/screens/app-mission-reservation.png");
+await cp("assets/screens/app-mission-practice.png", "dist/assets/screens/app-mission-practice.png");
 
 await mkdir("dist/assets/icons/scenes", { recursive: true });
 await mkdir("dist/assets/icons/features", { recursive: true });

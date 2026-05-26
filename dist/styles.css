@@ -1003,7 +1003,7 @@ h3 {
 }
 
 .screenshot-preview {
-  max-height: 520px;
+  max-height: 680px;
   margin-bottom: 18px;
   overflow: hidden;
   background: #f8fbff;
@@ -1013,6 +1013,7 @@ h3 {
 
 .screenshot-preview img {
   width: 100%;
+  height: auto;
   display: block;
 }
 
