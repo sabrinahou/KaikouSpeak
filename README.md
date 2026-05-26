@@ -35,10 +35,10 @@ npm run build
 ```js
 window.KAIKOU_CONFIG = {
   download: {
-    apkUrl: "https://download.kaikouspeak.com/android/latest.apk",
-    version: "v1.0.0",
+    apkUrl: "https://github.com/sabrinahou/KaikouSpeak/releases/download/v1.0.3/KaikouSpeak.apk",
+    version: "v1.0.3",
     platform: "Android",
-    fileSize: "待更新",
+    fileSize: "276 MB",
     updated: "2026-05-25"
   },
   contact: {
