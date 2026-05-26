@@ -5,7 +5,6 @@
 ## 本地运行
 
 ```bash
-cd landing-page
 npm run serve
 ```
 
@@ -18,15 +17,17 @@ npm run check
 npm run build
 ```
 
-构建产物会输出到 `landing-page/dist/`，可作为 Cloudflare Pages 的构建输出目录。
+构建产物会输出到 `dist/`，Wrangler 会从这个目录上传静态资源。
 
 ## Cloudflare Pages 建议配置
 
-- Project root: `landing-page`
+- Path / Project root: `/`
 - Build command: `npm run build`
-- Build output directory: `dist`
+- Deploy command: `npx wrangler deploy`
 
-也可以不执行构建，直接把 `landing-page` 作为静态目录部署。
+`wrangler.toml` 会把 Workers Assets 固定到 `./dist`。
+
+不要把仓库根目录 `/` 或 `/opt/buildhome/repo` 配成 assets 目录，否则 Cloudflare 构建时安装的 `node_modules/workerd/bin/workerd` 也会被当作网站资源上传，触发 25 MiB 单文件限制。
 
 ## 后续修改
 

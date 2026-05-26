@@ -638,6 +638,8 @@ h3 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  flex-wrap: wrap;
+  gap: 4px;
   min-height: 32px;
   padding: 0 10px;
   color: #10305d;
@@ -646,6 +648,12 @@ h3 {
   background: #e9f8fb;
   border: 1px solid #c7ebf3;
   border-radius: 999px;
+}
+
+.chip-row small {
+  color: #57708f;
+  font-size: 0.72rem;
+  font-weight: 800;
 }
 
 .chip-row.soft span {
@@ -1155,6 +1163,16 @@ h3 {
   background: #f5f9ff;
   border: 1px solid var(--line);
   border-radius: var(--radius);
+}
+
+.sentence-stack p span,
+.bubble small {
+  display: block;
+  margin-top: 4px;
+  color: #63738d;
+  font-size: 0.8rem;
+  font-weight: 800;
+  line-height: 1.45;
 }
 
 .chat-box {
@@ -1741,6 +1759,21 @@ h3 {
   .stats-grid,
   .release-list {
     grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .learning-card-header {
+    flex-direction: column;
+    gap: 6px;
+    margin-bottom: 12px;
+  }
+
+  .learning-card-header strong {
+    font-size: 1.04rem;
+    line-height: 1.28;
+  }
+
+  .screenshot-preview {
+    max-height: 430px;
   }
 
   .stat-card {
