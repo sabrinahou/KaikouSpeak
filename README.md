@@ -1,5 +1,7 @@
 # KaikouSpeak Landing Page
 
+[![KaikouSpeak APK Downloads](https://img.shields.io/github/downloads/sabrinahou/KaikouSpeak/v1.0.3/KaikouSpeak.apk.svg?label=APK%20downloads)](https://github.com/sabrinahou/KaikouSpeak/releases/download/v1.0.3/KaikouSpeak.apk)
+
 这是「开口说英语 / KaikouSpeak」产品介绍官网的独立静态工程目标。
 
 ## 本地运行
