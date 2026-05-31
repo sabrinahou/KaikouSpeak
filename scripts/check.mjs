@@ -50,7 +50,7 @@ if (!config.includes("window.KAIKOU_CONFIG")) {
   throw new Error("Site configuration must stay centralized in config.js");
 }
 
-const releaseApkUrl = "https://github.com/sabrinahou/KaikouSpeak/releases/download/v1.0.4/KaikouSpeak.apk";
+const releaseApkUrl = "https://github.com/sabrinahou/KaikouSpeak/releases/download/v1.0.5/KaikouSpeak.apk";
 
 if (app.includes("https://download.kaikouspeak.com/android/latest.apk") || app.includes("const KAIKOU_DOWNLOAD")) {
   throw new Error("Download values should be read from config.js, not hard-coded in app.js");
@@ -60,7 +60,7 @@ if (!config.includes(releaseApkUrl)) {
   throw new Error("Release APK URL is missing from config.js");
 }
 
-if (!config.includes('version: "v1.0.4"') || !config.includes('fileSize: "683 MB"')) {
+if (!config.includes('version: "v1.0.5"') || !config.includes('fileSize: "683 MB"')) {
   throw new Error("Release version and file size must be updated in config.js");
 }
 
