@@ -31,6 +31,15 @@ const iconFiles = [
   "assets/icons/features/progress-record.jpg"
 ];
 
+const screenFiles = [
+  "assets/screens/app-mission-reservation.png",
+  "assets/screens/app-mission-practice.png",
+  "assets/screens/app-listening-home.png",
+  "assets/screens/app-listening-episode.png",
+  "assets/screens/app-listening-preview.png",
+  "assets/screens/app-listening-player.png"
+];
+
 await rm("dist", { recursive: true, force: true });
 await mkdir("dist", { recursive: true });
 
@@ -41,8 +50,10 @@ for (const file of files) {
 await mkdir("dist/assets/screens-jpg", { recursive: true });
 await cp("assets/screens-jpg", "dist/assets/screens-jpg", { recursive: true });
 await mkdir("dist/assets/screens", { recursive: true });
-await cp("assets/screens/app-mission-reservation.png", "dist/assets/screens/app-mission-reservation.png");
-await cp("assets/screens/app-mission-practice.png", "dist/assets/screens/app-mission-practice.png");
+
+for (const screen of screenFiles) {
+  await cp(screen, `dist/${screen}`);
+}
 
 await mkdir("dist/assets/icons/scenes", { recursive: true });
 await mkdir("dist/assets/icons/features", { recursive: true });

@@ -18,6 +18,11 @@ const requiredIndexSnippets = [
   "开口说英语，不只是背单词",
   "为什么学了很多英语，还是开不了口？",
   "用 Mission 把英语放回真实场景",
+  "每天更新三大科技 Podcast，拆成真正听得懂的章节",
+  "精选三大科技类 Podcast 来源",
+  "边追动态边练听说",
+  "长音频变章节任务",
+  "实时播放内容分段显示",
   "Airport English",
   "Mission：预订或更改餐位",
   "下载 Android APK",
@@ -45,7 +50,7 @@ if (!config.includes("window.KAIKOU_CONFIG")) {
   throw new Error("Site configuration must stay centralized in config.js");
 }
 
-const releaseApkUrl = "https://github.com/sabrinahou/KaikouSpeak/releases/download/v1.0.3/KaikouSpeak.apk";
+const releaseApkUrl = "https://github.com/sabrinahou/KaikouSpeak/releases/download/v1.0.4/KaikouSpeak.apk";
 
 if (app.includes("https://download.kaikouspeak.com/android/latest.apk") || app.includes("const KAIKOU_DOWNLOAD")) {
   throw new Error("Download values should be read from config.js, not hard-coded in app.js");
@@ -55,7 +60,7 @@ if (!config.includes(releaseApkUrl)) {
   throw new Error("Release APK URL is missing from config.js");
 }
 
-if (!config.includes('version: "v1.0.3"') || !config.includes('fileSize: "276 MB"')) {
+if (!config.includes('version: "v1.0.4"') || !config.includes('fileSize: "683 MB"')) {
   throw new Error("Release version and file size must be updated in config.js");
 }
 
@@ -69,6 +74,10 @@ for (const screenshot of [
   "assets/screens-jpg/app-ordering-food-overview.jpg",
   "assets/screens/app-mission-reservation.png",
   "assets/screens/app-mission-practice.png",
+  "assets/screens/app-listening-home.png",
+  "assets/screens/app-listening-episode.png",
+  "assets/screens/app-listening-preview.png",
+  "assets/screens/app-listening-player.png",
   "assets/screens-jpg/app-mission-practice.jpg",
   "assets/screens-jpg/app-roleplay.jpg"
 ]) {
