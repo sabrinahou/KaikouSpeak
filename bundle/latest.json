@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "scene-remote_world_cup_english_survival_pack-v2",
+      "id": "scene-remote_world_cup_english_survival_pack-v3",
       "type": "scene_pack",
       "packId": "remote_world_cup_english_survival_pack",
       "title": "World Cup English Survival Pack (世界杯英语生存包)",
@@ -49,10 +49,10 @@
       "level": "A1-B1",
       "wordCount": 132,
       "sentenceCount": 60,
-      "version": 2,
-      "sizeBytes": 43830739,
+      "version": 3,
+      "sizeBytes": 29941461,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
-      "sha256": "c5ab2160a4d0090531cbbf662c56a5de249de2dd314344b746f8008a575901b7",
+      "sha256": "f2327394cfcd55b588ff30c628170abd6137e66efec14ec571964c5b9f2834c7",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
