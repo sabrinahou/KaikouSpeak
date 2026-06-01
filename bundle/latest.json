@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-01T02:08:57Z",
+  "generatedAt": "2026-06-01T12:00:00Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -29,6 +29,132 @@
       "encryption": {
         "mode": "none"
       }
+    },
+    {
+      "id": "scene-remote_world_cup_survival__match_day_travel-v1",
+      "type": "scene_pack",
+      "packId": "remote_world_cup_survival__match_day_travel",
+      "title": "Match Day Travel (比赛日交通)",
+      "description": "世界杯英语生存包 - 比赛日交通子包。练习去球场、坐公共交通、打车、找集合点、处理延误和赛后返程。",
+      "level": "A1-B1",
+      "wordCount": 22,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 13798375,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
+      "sha256": "0e0b7abbbc8f0888aafa9d982a714b5fa740c1a968d38431856def18c0ef1c2d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "bundleTitle": "World Cup English Survival Pack (世界杯英语生存包)",
+      "subpackOrder": 1,
+      "subpackCount": 6
+    },
+    {
+      "id": "scene-remote_world_cup_survival__stadium_entry-v1",
+      "type": "scene_pack",
+      "packId": "remote_world_cup_survival__stadium_entry",
+      "title": "Stadium Entry (球场入场)",
+      "description": "世界杯英语生存包 - 球场入场子包。练习验票、安检、找入口、问座位、寄存禁带物品和处理票务问题。",
+      "level": "A1-B1",
+      "wordCount": 22,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 13798375,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
+      "sha256": "0e0b7abbbc8f0888aafa9d982a714b5fa740c1a968d38431856def18c0ef1c2d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "bundleTitle": "World Cup English Survival Pack (世界杯英语生存包)",
+      "subpackOrder": 2,
+      "subpackCount": 6
+    },
+    {
+      "id": "scene-remote_world_cup_survival__live_match_english-v1",
+      "type": "scene_pack",
+      "packId": "remote_world_cup_survival__live_match_english",
+      "title": "Live Match English (现场看球英语)",
+      "description": "世界杯英语生存包 - 现场看球英语子包。练习描述进攻、防守、进球、判罚、VAR、补时和点球。",
+      "level": "A1-B1",
+      "wordCount": 22,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 13798375,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
+      "sha256": "0e0b7abbbc8f0888aafa9d982a714b5fa740c1a968d38431856def18c0ef1c2d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "bundleTitle": "World Cup English Survival Pack (世界杯英语生存包)",
+      "subpackOrder": 3,
+      "subpackCount": 6
+    },
+    {
+      "id": "scene-remote_world_cup_survival__fan_festival-v1",
+      "type": "scene_pack",
+      "packId": "remote_world_cup_survival__fan_festival",
+      "title": "Fan Festival (球迷嘉年华)",
+      "description": "世界杯英语生存包 - 球迷嘉年华子包。练习找大屏、买周边、点小吃、问活动安排、找朋友和保持安全。",
+      "level": "A1-B1",
+      "wordCount": 22,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 13798375,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
+      "sha256": "0e0b7abbbc8f0888aafa9d982a714b5fa740c1a968d38431856def18c0ef1c2d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "bundleTitle": "World Cup English Survival Pack (世界杯英语生存包)",
+      "subpackOrder": 4,
+      "subpackCount": 6
+    },
+    {
+      "id": "scene-remote_world_cup_survival__sports_bar-v1",
+      "type": "scene_pack",
+      "packId": "remote_world_cup_survival__sports_bar",
+      "title": "Sports Bar (酒吧看球)",
+      "description": "世界杯英语生存包 - 酒吧看球子包。练习订位、点餐、问转播、和服务员沟通、看球互动及礼貌结账。",
+      "level": "A1-B1",
+      "wordCount": 22,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 13798375,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
+      "sha256": "0e0b7abbbc8f0888aafa9d982a714b5fa740c1a968d38431856def18c0ef1c2d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "bundleTitle": "World Cup English Survival Pack (世界杯英语生存包)",
+      "subpackOrder": 5,
+      "subpackCount": 6
+    },
+    {
+      "id": "scene-remote_world_cup_survival__fan_small_talk-v1",
+      "type": "scene_pack",
+      "packId": "remote_world_cup_survival__fan_small_talk",
+      "title": "Fan Small Talk (球迷闲聊)",
+      "description": "世界杯英语生存包 - 球迷闲聊子包。练习开场白、聊球队、比分、球员、旅行、预测和礼貌结束对话。",
+      "level": "A1-B1",
+      "wordCount": 22,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 13798375,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
+      "sha256": "0e0b7abbbc8f0888aafa9d982a714b5fa740c1a968d38431856def18c0ef1c2d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "bundleTitle": "World Cup English Survival Pack (世界杯英语生存包)",
+      "subpackOrder": 6,
+      "subpackCount": 6
     }
   ]
 }
