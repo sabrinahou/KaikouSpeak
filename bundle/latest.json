@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "channel": "local-test",
+  "generatedAt": "2026-06-01T01:48:41.212Z",
+  "minAppVersionCode": 1,
+  "bundles": [
+    {
+      "id": "scene-system_travel__airport-from-emulator",
+      "type": "scene_pack",
+      "packId": "system_travel__airport",
+      "version": 1,
+      "sizeBytes": 18271,
+      "url": "http://10.0.2.2:8765/system_travel__airport_from_emulator.bundle.zip",
+      "sha256": "edde7159c3368d8e5d9398a6d75c4ea3687fe943adc9f5c948d3106ae578965e",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    }
+  ]
+}
