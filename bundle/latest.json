@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-02T02:40:23.530Z",
+  "generatedAt": "2026-06-02T16:24:03.043Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -60,52 +60,264 @@
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/remote_world_cup_english_survival_pack.webp"
     },
     {
-      "id": "podcast-kaikou-prebuilt-all-v1",
+      "id": "podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79-v1",
       "type": "podcast_pack",
-      "packId": "kaikou_podcast_prebuilt_all",
-      "title": "KaikouSpeak Podcast Listening Pack",
-      "description": "系统内置 Podcast 听力学习包，包含 Bloomberg Tech、The Vergecast 和 Latent Space 的预构建节目、章节、字幕、学习任务和本地音频。",
-      "level": "B1-C1",
-      "sourceCount": 3,
-      "episodeCount": 8,
-      "version": 2,
-      "sizeBytes": 582429610,
+      "packId": "podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79",
+      "title": "Bloomberg Tech: SpaceX Lowers IPO Valuation Target",
+      "description": "Podcast 听力单集包，包含 SpaceX Lowers IPO Valuation Target 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 65930386,
       "url": "",
-      "parts": [
-        {
-          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-aa",
-          "sizeBytes": 94371840
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ab",
-          "sizeBytes": 94371840
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ac",
-          "sizeBytes": 94371840
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ad",
-          "sizeBytes": 94371840
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ae",
-          "sizeBytes": 94371840
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-af",
-          "sizeBytes": 94371840
-        },
-        {
-          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ag",
-          "sizeBytes": 16198570
-        }
-      ],
-      "sha256": "1c20f4f829bc227a9ee4242d30fc07ce64e399a2a88db7e2d31be0f1122b4780",
+      "sha256": "e864540bcaca4dd58aaca3653fe37b055dcd1c1228f31dec516360f50ee1067b",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
-      }
+      },
+      "publishedAt": "2026-05-29",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 136,
+      "phraseCount": 46,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79.podcast.zip.part-ab",
+          "sizeBytes": 18744466
+        }
+      ]
+    },
+    {
+      "id": "podcast_bloomberg_tech_40842af1_0700_40ea_98a7_b459010405ca-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_40842af1_0700_40ea_98a7_b459010405ca",
+      "title": "Bloomberg Tech: BONUS: Dell CFO David Kennedy Talks Earnings & Upbeat Outlook Fueled by AI",
+      "description": "Podcast 听力单集包，包含 BONUS: Dell CFO David Kennedy Talks Earnings & Upbeat Outlook Fueled by AI 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 13122765,
+      "url": "",
+      "sha256": "c98685c018452352560307c6f8637dd8ee8ba681a44ee5f0a3928fe05e74217d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-05-29",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 56,
+      "phraseCount": 22,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_40842af1_0700_40ea_98a7_b459010405ca.podcast.zip.part-aa",
+          "sizeBytes": 13122765
+        }
+      ]
+    },
+    {
+      "id": "podcast_bloomberg_tech_0680bc63_f79f_47a9_8064_b45801317afa-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_0680bc63_f79f_47a9_8064_b45801317afa",
+      "title": "Bloomberg Tech: Snowflake Jumps Most Since 2020 After Amazon Deal",
+      "description": "Podcast 听力单集包，包含 Snowflake Jumps Most Since 2020 After Amazon Deal 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 111021260,
+      "url": "",
+      "sha256": "ebb47b51156e6ed8a5bb45bb0d40fdb5a31451ccdaff8d21d97e4dac94254d4f",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-05-28",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 113,
+      "phraseCount": 4,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_0680bc63_f79f_47a9_8064_b45801317afa.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_0680bc63_f79f_47a9_8064_b45801317afa.podcast.zip.part-ab",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_0680bc63_f79f_47a9_8064_b45801317afa.podcast.zip.part-ac",
+          "sizeBytes": 16649420
+        }
+      ]
+    },
+    {
+      "id": "podcast_vergecast_6ecb7a74_9270_11f0_9780_3bf837f51028-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_vergecast_6ecb7a74_9270_11f0_9780_3bf837f51028",
+      "title": "The Vergecast: Jony Ive's funky Ferrari",
+      "description": "Podcast 听力单集包，包含 Jony Ive's funky Ferrari 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 125829823,
+      "url": "",
+      "sha256": "3033986dbf3ce30b7458720a0093a05c48202e512608e6ebcb8c189cc9aa5cec",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-05-29",
+      "sourceId": "vergecast",
+      "vocabularyCount": 83,
+      "phraseCount": 34,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_6ecb7a74_9270_11f0_9780_3bf837f51028.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_6ecb7a74_9270_11f0_9780_3bf837f51028.podcast.zip.part-ab",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_6ecb7a74_9270_11f0_9780_3bf837f51028.podcast.zip.part-ac",
+          "sizeBytes": 31457983
+        }
+      ]
+    },
+    {
+      "id": "podcast_latent_space_substack_post_199607874-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_latent_space_substack_post_199607874",
+      "title": "Latent Space: The AI Engineer Podcast: The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray",
+      "description": "Podcast 听力单集包，包含 The Age of Async Agents — Cognition's Walden Yan & OpenInspect's Cole Murray 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 73345076,
+      "url": "",
+      "sha256": "d1fb19165bbe84b0dc886b28b5c547deafd5787c939dd47abad04ea0c53372e9",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-05-28",
+      "sourceId": "latent_space",
+      "vocabularyCount": 103,
+      "phraseCount": 39,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_199607874.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_199607874.podcast.zip.part-ab",
+          "sizeBytes": 26159156
+        }
+      ]
+    },
+    {
+      "id": "podcast_bloomberg_tech_d46613cd_8a89_437e_93c9_b45c011483c8-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_d46613cd_8a89_437e_93c9_b45c011483c8",
+      "title": "Bloomberg Tech: Nvidia Gets Into the PC Market With New Chip",
+      "description": "Podcast 听力单集包，包含 Nvidia Gets Into the PC Market With New Chip 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 57606323,
+      "url": "",
+      "sha256": "e5eaf5da67bc03e867b331d045194b935b988f16a79f0bbc7c6018a6bb0659d8",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-06-01",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 97,
+      "phraseCount": 29,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_d46613cd_8a89_437e_93c9_b45c011483c8.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_d46613cd_8a89_437e_93c9_b45c011483c8.podcast.zip.part-ab",
+          "sizeBytes": 10420403
+        }
+      ]
+    },
+    {
+      "id": "podcast_vergecast_31463828_3e92_11f1_a1ce_67983a730eb7-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_vergecast_31463828_3e92_11f1_a1ce_67983a730eb7",
+      "title": "The Vergecast: Casey Neistat's guide to posting every day",
+      "description": "Podcast 听力单集包，包含 Casey Neistat's guide to posting every day 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 36340066,
+      "url": "",
+      "sha256": "fd5bbf7b8a93d1e32fb5755ad353c18e016e50bbabdb923269e392919c9e6adb",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-06-01",
+      "sourceId": "vergecast",
+      "vocabularyCount": 18,
+      "phraseCount": 5,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_31463828_3e92_11f1_a1ce_67983a730eb7.podcast.zip.part-aa",
+          "sizeBytes": 36340066
+        }
+      ]
+    },
+    {
+      "id": "podcast_latent_space_substack_post_200078058-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_latent_space_substack_post_200078058",
+      "title": "Latent Space: The AI Engineer Podcast: Why Video Agent models are next — Ethan He, xAI Grok Imagine",
+      "description": "Podcast 听力单集包，包含 Why Video Agent models are next — Ethan He, xAI Grok Imagine 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 99249337,
+      "url": "",
+      "sha256": "e5222bd1804995aa5dd140dbcf3c6b05d5f5dffa27597e27eed39e55069da336",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-06-01",
+      "sourceId": "latent_space",
+      "vocabularyCount": 8,
+      "phraseCount": 3,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_200078058.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_200078058.podcast.zip.part-ab",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_200078058.podcast.zip.part-ac",
+          "sizeBytes": 4877497
+        }
+      ]
     }
   ]
 }
