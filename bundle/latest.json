@@ -67,9 +67,9 @@
       "description": "系统内置 Podcast 听力学习包，包含 Bloomberg Tech、The Vergecast 和 Latent Space 的预构建节目、章节、字幕、学习任务和本地音频。",
       "level": "B1-C1",
       "sourceCount": 3,
-      "episodeCount": 5,
-      "version": 1,
-      "sizeBytes": 269678748,
+      "episodeCount": 8,
+      "version": 2,
+      "sizeBytes": 582429610,
       "url": "",
       "parts": [
         {
@@ -82,10 +82,26 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ac",
-          "sizeBytes": 80935068
+          "sizeBytes": 94371840
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ad",
+          "sizeBytes": 94371840
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ae",
+          "sizeBytes": 94371840
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-af",
+          "sizeBytes": 94371840
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/kaikou_podcast_prebuilt_all_v1.podcast.zip.part-ag",
+          "sizeBytes": 16198570
         }
       ],
-      "sha256": "0d51d603385ab5be920a9a3ff7f07646466e423e57c8879ca9807dad3fc3e115",
+      "sha256": "1c20f4f829bc227a9ee4242d30fc07ce64e399a2a88db7e2d31be0f1122b4780",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
