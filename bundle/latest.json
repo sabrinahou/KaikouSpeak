@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "scene-system_sports__world_cup_football-v2",
+      "id": "scene-system_sports__world_cup_football-v3",
       "type": "scene_pack",
       "packId": "system_sports__world_cup_football",
       "title": "World Cup Football (世界杯足球比赛)",
@@ -31,10 +31,10 @@
       "level": "A1-B1",
       "wordCount": 192,
       "sentenceCount": 71,
-      "version": 2,
-      "sizeBytes": 32666236,
+      "version": 3,
+      "sizeBytes": 53680513,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__world_cup_football.bundle.zip",
-      "sha256": "fcd5c5343ee31d6acc45026e568632f37ed95bf6a6fbf179bb1ecfdd4be8e0e9",
+      "sha256": "99170c70698b0bfee351876bff1869c2b0295d1cd25e4b3dc61f82c0672cccd2",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
