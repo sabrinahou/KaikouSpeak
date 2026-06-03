@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-02T16:24:03.043Z",
+  "generatedAt": "2026-06-03T00:00:00.000Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -23,7 +23,7 @@
       }
     },
     {
-      "id": "scene-system_sports__world_cup_football-v1",
+      "id": "scene-system_sports__world_cup_football-v2",
       "type": "scene_pack",
       "packId": "system_sports__world_cup_football",
       "title": "World Cup Football (世界杯足球比赛)",
@@ -31,10 +31,10 @@
       "level": "A1-B1",
       "wordCount": 192,
       "sentenceCount": 71,
-      "version": 1,
-      "sizeBytes": 32665741,
+      "version": 2,
+      "sizeBytes": 32666236,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__world_cup_football.bundle.zip",
-      "sha256": "5dd07807b31ffc9f86c7da4a0957e63779516aeafc012f4f58ba24a9a9828c22",
+      "sha256": "fcd5c5343ee31d6acc45026e568632f37ed95bf6a6fbf179bb1ecfdd4be8e0e9",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
