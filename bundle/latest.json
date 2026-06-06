@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-06T04:28:04Z",
+  "generatedAt": "2026-06-06T05:05:00Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -41,25 +41,26 @@
       }
     },
     {
-      "id": "scene-remote_world_cup_english_survival_pack-v10",
+      "id": "scene-remote_world_cup_english_survival_pack-v11",
       "type": "scene_pack",
       "packId": "remote_world_cup_english_survival_pack",
       "title": "World Cup Practical English (B1-B2)",
-      "description": "面向中高阶学习者的世界杯观赛实用英语包。覆盖交通、入场、现场看球、球迷嘉年华、酒吧看球和球迷社交，训练问题升级、突发情况、快速说明和自然交流。",
+      "description": "面向中高阶学习者的世界杯观赛实用英语包。覆盖比赛日交通、球场入场、现场看球、球迷嘉年华、酒吧看球和球迷自然闲聊，重点训练问题升级、突发情况、工作人员快速说明、战术/判罚讨论和友好社交表达。",
       "level": "B1-B2",
       "wordCount": 72,
       "sentenceCount": 120,
-      "version": 10,
-      "sizeBytes": 57163318,
+      "version": 11,
+      "sizeBytes": 57179252,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
-      "sha256": "0772744aa2cce0a5bec9a50220afce78d5efea3297fc17b39bb987c6ab2eaa44",
+      "sha256": "3b8321292b0f701cddc165e365420efead7549c5d010ab9173aad71d8526485b",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/remote_world_cup_english_survival_pack.webp",
-      "updatedAt": "2026-06-06T04:28:04Z",
-      "notes": "升级为 B1-B2 World Cup Practical English；重写高价值 chunks、120 个实用句、18 段真实对话，补齐 Echo 音频并重做第 6 张任务图。"
+      "updatedAt": "2026-06-06T05:05:00Z",
+      "notes": "升级为 B1-B2 World Cup Practical English；重写高价值 chunks、120 个实用句、18 段真实对话，补齐 Echo 音频，重做第 6 张任务图，并解除任务热点 6 个上限。",
+      "generatedAt": "2026-06-06T05:05:00Z"
     },
     {
       "id": "podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79-v1",
