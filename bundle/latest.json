@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-06T03:47:31Z",
+  "generatedAt": "2026-06-06T04:03:34Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "scene-remote_world_cup_english_survival_pack-v8",
+      "id": "scene-remote_world_cup_english_survival_pack-v9",
       "type": "scene_pack",
       "packId": "remote_world_cup_english_survival_pack",
       "title": "World Cup English Survival Pack (世界杯英语生存包)",
@@ -49,17 +49,17 @@
       "level": "A1-B1",
       "wordCount": 132,
       "sentenceCount": 120,
-      "version": 8,
-      "sizeBytes": 45269712,
+      "version": 9,
+      "sizeBytes": 45269673,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
-      "sha256": "02b6c5012e8f20a428c256fc6f8a6e7b19131eff635a05ebcabc22675a2273b1",
+      "sha256": "ce10ab130c84eef7beecfbfb8c71c14f01685943d0bf4dd6ef7ec3d4ea7bbf1d",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/remote_world_cup_english_survival_pack.webp",
-      "updatedAt": "2026-06-06T03:47:31Z",
-      "notes": "真人 Echo 发音版；修复任务内容引用字段，任务卡数量可正确显示，并保留点图学习场景特点图。"
+      "updatedAt": "2026-06-06T04:03:34Z",
+      "notes": "真人 Echo 发音版；任务内容引用按任务相关性选择，不再固定每个任务的词/词组/句子数量。"
     },
     {
       "id": "podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79-v1",
