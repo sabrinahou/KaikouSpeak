@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-03T00:00:00.000Z",
+  "generatedAt": "2026-06-06T03:38:47Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "scene-remote_world_cup_english_survival_pack-v6",
+      "id": "scene-remote_world_cup_english_survival_pack-v7",
       "type": "scene_pack",
       "packId": "remote_world_cup_english_survival_pack",
       "title": "World Cup English Survival Pack (世界杯英语生存包)",
@@ -49,15 +49,17 @@
       "level": "A1-B1",
       "wordCount": 132,
       "sentenceCount": 120,
-      "version": 6,
-      "sizeBytes": 44441302,
+      "version": 7,
+      "sizeBytes": 45268813,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
-      "sha256": "abd127335b23c3f77ec923743542fd33878d7fae45f5731120233997e8ef38eb",
+      "sha256": "ddaa9c9691da890078e8755507653fd2cfdc4398bf7a3f1db25fce8caee4bbf6",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
-      "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/remote_world_cup_english_survival_pack.webp"
+      "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/remote_world_cup_english_survival_pack.webp",
+      "updatedAt": "2026-06-06T03:38:47Z",
+      "notes": "真人 Echo 发音版；补齐点图学习场景特点图、mission posters 与 scene missions。"
     },
     {
       "id": "podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79-v1",
