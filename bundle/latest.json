@@ -318,6 +318,25 @@
           "sizeBytes": 4877497
         }
       ]
+    },
+    {
+      "id": "scene-system_sports__football_live_commentary-v1",
+      "type": "scene_pack",
+      "packId": "system_sports__football_live_commentary",
+      "title": "Football Live Commentary (足球现场解说)",
+      "description": "运动 - 足球现场解说场景英语学习包。覆盖快速解说信号、传控推进、边路传中、射门进球、防守门将、定位球混战、犯规越位 VAR、逼抢反击、欧冠赛制和世界杯出线解说。",
+      "level": "A1-B1",
+      "wordCount": 158,
+      "sentenceCount": 78,
+      "version": 1,
+      "sizeBytes": 130235737,
+      "url": "https://github.com/sabrinahou/KaikouSpeak/releases/download/football-live-commentary-bundle-20260605/football_live_commentary_app_native_package.bundle.zip",
+      "sha256": "29cbf5ad92907e8f0db7e27c3be218426ca27f679920c45098140af7a3d812cc",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "imageUrl": ""
     }
   ]
 }
