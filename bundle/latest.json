@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-06T05:05:00Z",
+  "generatedAt": "2026-06-06T05:31:21Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -92,7 +92,8 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79.podcast.zip.part-ab",
           "sizeBytes": 18744466
         }
-      ]
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
     },
     {
       "id": "podcast_bloomberg_tech_40842af1_0700_40ea_98a7_b459010405ca-v1",
@@ -120,7 +121,8 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_40842af1_0700_40ea_98a7_b459010405ca.podcast.zip.part-aa",
           "sizeBytes": 13122765
         }
-      ]
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
     },
     {
       "id": "podcast_bloomberg_tech_0680bc63_f79f_47a9_8064_b45801317afa-v1",
@@ -156,7 +158,8 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_0680bc63_f79f_47a9_8064_b45801317afa.podcast.zip.part-ac",
           "sizeBytes": 16649420
         }
-      ]
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
     },
     {
       "id": "podcast_vergecast_6ecb7a74_9270_11f0_9780_3bf837f51028-v1",
@@ -192,7 +195,8 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_6ecb7a74_9270_11f0_9780_3bf837f51028.podcast.zip.part-ac",
           "sizeBytes": 31457983
         }
-      ]
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/Podcast_Tile_6000x6000px.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     {
       "id": "podcast_latent_space_substack_post_199607874-v1",
@@ -224,7 +228,8 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_199607874.podcast.zip.part-ab",
           "sizeBytes": 26159156
         }
-      ]
+      ],
+      "imageUrl": "https://substackcdn.com/feed/podcast/1084089/ca7468da5614a246d2906ee8926f6de7.jpg"
     },
     {
       "id": "podcast_bloomberg_tech_d46613cd_8a89_437e_93c9_b45c011483c8-v1",
@@ -256,7 +261,8 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_d46613cd_8a89_437e_93c9_b45c011483c8.podcast.zip.part-ab",
           "sizeBytes": 10420403
         }
-      ]
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
     },
     {
       "id": "podcast_vergecast_31463828_3e92_11f1_a1ce_67983a730eb7-v1",
@@ -284,7 +290,8 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_31463828_3e92_11f1_a1ce_67983a730eb7.podcast.zip.part-aa",
           "sizeBytes": 36340066
         }
-      ]
+      ],
+      "imageUrl": "https://megaphone.imgix.net/podcasts/e4c412e6-e1f0-11e8-9bde-83f9d376f059/image/Podcast_Tile_6000x6000px.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress"
     },
     {
       "id": "podcast_latent_space_substack_post_200078058-v1",
@@ -320,26 +327,29 @@
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_200078058.podcast.zip.part-ac",
           "sizeBytes": 4877497
         }
-      ]
+      ],
+      "imageUrl": "https://substackcdn.com/feed/podcast/1084089/post/200078058/297236820732ef29fddc1798ab143c2d.jpg"
     },
     {
       "id": "scene-system_sports__football_live_commentary-v2",
       "type": "scene_pack",
       "packId": "system_sports__football_live_commentary",
       "title": "Football Live Commentary (足球现场解说)",
-      "description": "运动 - 足球现场解说场景英语学习包。覆盖快速解说信号、传控推进、边路传中、射门进球、防守门将、定位球混战、犯规越位 VAR、逼抢反击、欧冠赛制和世界杯出线解说。",
-      "level": "A1-B1",
+      "description": "运动 - 足球现场解说场景学习包。面向中高级学习者，覆盖真实转播中的快速解说信号、传控推进、边路传中、射门进球、防守门将、定位球混战、犯规越位 VAR、逼抢反击、欧冠两回合和世界杯出线解说。",
+      "level": "B1-B2",
       "wordCount": 158,
-      "sentenceCount": 78,
+      "sentenceCount": 122,
       "version": 2,
-      "sizeBytes": 46186979,
-      "url": "https://github.com/sabrinahou/KaikouSpeak/releases/download/football-live-commentary-bundle-20260605/football_live_commentary_app_native_package.bundle.zip",
-      "sha256": "9259e7434e3ddf530240cd02e7e56e462d8d15dafef2229e5aff2b683e5f7b97",
+      "sizeBytes": 59333730,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
+      "sha256": "2be54926da5495bf3f147b95013c1e268cd673425d4e8c4c7368da7b3970e080",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
-      "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp"
+      "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp",
+      "updatedAt": "2026-06-06T05:31:21Z",
+      "notes": "升级为 B1-B2；补齐任务词组与句子，12 个任务使用 Codex imagegen 重新生成 1024x1536 单场景图，重新校准热点并补齐缺失音频。"
     }
   ]
 }
