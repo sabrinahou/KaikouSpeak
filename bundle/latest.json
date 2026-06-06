@@ -50,9 +50,9 @@
       "wordCount": 132,
       "sentenceCount": 120,
       "version": 6,
-      "sizeBytes": 44440492,
+      "sizeBytes": 44441302,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
-      "sha256": "b58565c29a39efc842f7462954bcd37459fedad506dd953da18334a832f5f780",
+      "sha256": "abd127335b23c3f77ec923743542fd33878d7fae45f5731120233997e8ef38eb",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
@@ -329,9 +329,9 @@
       "wordCount": 158,
       "sentenceCount": 78,
       "version": 1,
-      "sizeBytes": 130235737,
-      "url": "https://github.com/sabrinahou/KaikouSpeak/releases/download/football-live-commentary-bundle-20260605/football_live_commentary_app_native_package.bundle.zip",
-      "sha256": "29cbf5ad92907e8f0db7e27c3be218426ca27f679920c45098140af7a3d812cc",
+      "sizeBytes": 46216894,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
+      "sha256": "c3781c790d7c58fc0d5604e6c3336b59fc055b1c6eae3290f482f65d6d72f145",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
