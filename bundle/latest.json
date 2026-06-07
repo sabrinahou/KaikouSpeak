@@ -41,7 +41,7 @@
       }
     },
     {
-      "id": "scene-remote_world_cup_english_survival_pack-v14",
+      "id": "scene-remote_world_cup_english_survival_pack-v15",
       "type": "scene_pack",
       "packId": "remote_world_cup_english_survival_pack",
       "title": "World Cup Practical English (B1-B2)",
@@ -49,17 +49,17 @@
       "level": "B1-B2",
       "wordCount": 72,
       "sentenceCount": 120,
-      "version": 14,
-      "sizeBytes": 50597178,
+      "version": 15,
+      "sizeBytes": 43887983,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/world_cup_english_survival_pack.bundle.zip",
-      "sha256": "5d02fe082c4e1c75d1596111c8fb0db657512f06e8b0fc1e7fc36a1cd6c64fe6",
+      "sha256": "a7f2a54ef6369806fb671b88fa4e83edbeb682690100cb90bbf090db2cfba9dd",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/remote_world_cup_english_survival_pack.webp",
-      "updatedAt": "2026-06-06T05:05:00Z",
-      "notes": "v14 修复任务词组卡片：把句子改回短词组，逐项绑定不同图片资源，避免同一张场景图重复显示。",
+      "updatedAt": "2026-06-07T00:00:00Z",
+      "notes": "v15 专业内容评审：重写 60 个任务词组为自然美式比赛日英语 chunks，优化中文释义和例句，清理旧 phrase 音频元数据，并保持每个任务内词组图片唯一。",
       "generatedAt": "2026-06-07T00:00:00.000Z"
     },
     {
