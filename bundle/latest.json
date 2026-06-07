@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-07T05:27:52Z",
+  "generatedAt": "2026-06-07T19:45:35Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -331,7 +331,7 @@
       "imageUrl": "https://substackcdn.com/feed/podcast/1084089/post/200078058/297236820732ef29fddc1798ab143c2d.jpg"
     },
     {
-      "id": "scene-system_sports__football_live_commentary-v3",
+      "id": "scene-system_sports__football_live_commentary-v4",
       "type": "scene_pack",
       "packId": "system_sports__football_live_commentary",
       "title": "Football Live Commentary (足球现场解说)",
@@ -339,18 +339,18 @@
       "level": "B1-B2",
       "wordCount": 158,
       "sentenceCount": 122,
-      "version": 3,
-      "sizeBytes": 78077500,
+      "version": 4,
+      "sizeBytes": 72830317,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
-      "sha256": "a1b1a36fab93790e0a8adbc039461663d2ba6b07be1291bf98660b7d0a436f7a",
+      "sha256": "2080a0439c719139e268239e4d1c93ec04877592c5604f0dfbf15b6be14cf82c",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp",
-      "updatedAt": "2026-06-07T05:27:52Z",
-      "notes": "v3 修复词卡图片匹配：热点词/短语使用任务场景热点裁剪，非热点词组重新生成语义匹配的无白边满版词卡图，并单独校正 broadcast/replay/commentary booth/broadcast camera 词卡。",
-      "generatedAt": "2026-06-07T05:27:52Z"
+      "updatedAt": "2026-06-07T19:45:35Z",
+      "notes": "v4 全量审查词/词组图片匹配；重生成 83 张不匹配或复用严重的单词卡图片，重点修复定位球、VAR、战术和赛制词卡。",
+      "generatedAt": "2026-06-07T19:45:35Z"
     }
   ]
 }
