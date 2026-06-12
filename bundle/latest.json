@@ -331,7 +331,7 @@
       "imageUrl": "https://substackcdn.com/feed/podcast/1084089/post/200078058/297236820732ef29fddc1798ab143c2d.jpg"
     },
     {
-      "id": "scene-system_sports__football_live_commentary-v4",
+      "id": "scene-system_sports__football_live_commentary-v5",
       "type": "scene_pack",
       "packId": "system_sports__football_live_commentary",
       "title": "Football Live Commentary (足球现场解说)",
@@ -339,18 +339,18 @@
       "level": "B1-B2",
       "wordCount": 158,
       "sentenceCount": 122,
-      "version": 4,
-      "sizeBytes": 73014521,
+      "version": 5,
+      "sizeBytes": 84943514,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
-      "sha256": "01aa4b5d3b34c064156d877fc070458c51587c4d45e3a59307d9f9165aa1a576",
+      "sha256": "17b8aa1349eac55f7f75464105de0bb00a8052ec7d4572575fdf7d73b779cf47",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp",
-      "updatedAt": "2026-06-07T19:45:35Z",
-      "notes": "v4 全量审查词/词组图片匹配；重生成 83 张不匹配或复用严重的单词卡图片，重点修复定位球、VAR、战术和赛制词卡。",
-      "generatedAt": "2026-06-07T19:45:35Z"
+      "updatedAt": "2026-06-12T12:29:55Z",
+      "notes": "v5 使用 OpenAI gpt-4o-mini-tts / echo 为 656 条 Football Live Commentary 音频记录重生成真人感美式英语发音；保留原学习内容和图片。",
+      "generatedAt": "2026-06-12T12:29:55Z"
     }
   ]
 }
