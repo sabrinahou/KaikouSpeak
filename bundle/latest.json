@@ -331,23 +331,23 @@
       "imageUrl": "https://substackcdn.com/feed/podcast/1084089/post/200078058/297236820732ef29fddc1798ab143c2d.jpg"
     },
     {
-      "id": "podcast_fifa_podcast_6a2a45db34a0c5b2c28d0c61-v1",
+      "id": "podcast_fifa_podcast_6a2a45db34a0c5b2c28d0c61-v2",
       "type": "podcast_pack",
       "packId": "podcast_fifa_podcast_6a2a45db34a0c5b2c28d0c61",
       "title": "The FIFA Podcast: The FIFA World Cup Kicks Off! Christian Vieri is joined by FIFA President Gianni Infantino and South Africa legend Siphiwe Tshabalala ahead of the opening match in Mexico",
-      "description": "FIFA 官方 Podcast 听力单集包，包含 2026-06-11 最新节目原始音频、5 个章节任务、18 个重点词汇、3 个高频短语和学习音频。",
-      "version": 1,
+      "description": "FIFA 官方 Podcast 世界杯听力单集包，包含 2026-06-11 最新节目原始音频、Whisper 生成字幕、5 个章节任务、64 个世界杯重点词汇、26 个高频短语和 177 个学习音频。",
+      "version": 2,
       "sourceId": "fifa_podcast",
       "level": "C1",
       "sourceCount": 1,
       "episodeCount": 1,
-      "sizeBytes": 17989479,
+      "sizeBytes": 26905105,
       "url": "",
-      "sha256": "d6ebe31e48ee7cff27e69964d6ce09a6659cb5ab7744c5799377812c39d94577",
+      "sha256": "822d726b28f846a02a1274ac059926e6889a0870fca343565924028c1bb29bd4",
       "parts": [
         {
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_fifa_podcast_6a2a45db34a0c5b2c28d0c61.podcast.zip.part-aa",
-          "sizeBytes": 17989479
+          "sizeBytes": 26905105
         }
       ],
       "imageUrl": "https://assets.pippa.io/shows/602590505e374d0dfd31bdd3/1781154057830-f5b54043-fd5b-4db9-b2c6-0b41cc086409.jpeg"
