@@ -353,7 +353,7 @@
       "imageUrl": "https://assets.pippa.io/shows/602590505e374d0dfd31bdd3/1781154057830-f5b54043-fd5b-4db9-b2c6-0b41cc086409.jpeg"
     },
     {
-      "id": "scene-system_sports__football_live_commentary-v6",
+      "id": "scene-system_sports__football_live_commentary-v7",
       "type": "scene_pack",
       "packId": "system_sports__football_live_commentary",
       "title": "Football Live Commentary (足球现场解说)",
@@ -361,18 +361,18 @@
       "level": "B1-B2",
       "wordCount": 158,
       "sentenceCount": 122,
-      "version": 6,
-      "sizeBytes": 98024312,
+      "version": 7,
+      "sizeBytes": 98964766,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
-      "sha256": "1a09faec6090c4132de31b7b2cbf52a24c6c8738a117f6eabbc7136624d228dd",
+      "sha256": "ec87ecd4c60031e378c19b84e5ad47cb44579534c9892a8e4f30d1a95fbb87ea",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp",
-      "updatedAt": "2026-06-12T12:47:11Z",
-      "notes": "v6 补齐 304 条单词/短语例句音频，其中新增 286 条 OpenAI gpt-4o-mini-tts / echo 真人感美式英语发音；全包 802 条可播放英文文本均有 bundle 音频。",
-      "generatedAt": "2026-06-12T12:47:11Z"
+      "updatedAt": "2026-06-12T13:17:13Z",
+      "notes": "v7 补齐 12 个场景视频开场句和 1 个最终挑战提示的 OpenAI gpt-4o-mini-tts / echo 真人感美式英语发音；视频第一句不再回退系统 TTS。",
+      "generatedAt": "2026-06-12T13:17:13Z"
     }
   ]
 }
