@@ -353,7 +353,7 @@
       "imageUrl": "https://assets.pippa.io/shows/602590505e374d0dfd31bdd3/1781154057830-f5b54043-fd5b-4db9-b2c6-0b41cc086409.jpeg"
     },
     {
-      "id": "scene-system_sports__football_live_commentary-v5",
+      "id": "scene-system_sports__football_live_commentary-v6",
       "type": "scene_pack",
       "packId": "system_sports__football_live_commentary",
       "title": "Football Live Commentary (足球现场解说)",
@@ -361,18 +361,18 @@
       "level": "B1-B2",
       "wordCount": 158,
       "sentenceCount": 122,
-      "version": 5,
-      "sizeBytes": 84943514,
+      "version": 6,
+      "sizeBytes": 98024312,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
-      "sha256": "17b8aa1349eac55f7f75464105de0bb00a8052ec7d4572575fdf7d73b779cf47",
+      "sha256": "1a09faec6090c4132de31b7b2cbf52a24c6c8738a117f6eabbc7136624d228dd",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp",
-      "updatedAt": "2026-06-12T12:29:55Z",
-      "notes": "v5 使用 OpenAI gpt-4o-mini-tts / echo 为 656 条 Football Live Commentary 音频记录重生成真人感美式英语发音；保留原学习内容和图片。",
-      "generatedAt": "2026-06-12T12:29:55Z"
+      "updatedAt": "2026-06-12T12:47:11Z",
+      "notes": "v6 补齐 304 条单词/短语例句音频，其中新增 286 条 OpenAI gpt-4o-mini-tts / echo 真人感美式英语发音；全包 802 条可播放英文文本均有 bundle 音频。",
+      "generatedAt": "2026-06-12T12:47:11Z"
     }
   ]
 }
