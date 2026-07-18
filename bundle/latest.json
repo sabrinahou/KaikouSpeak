@@ -548,18 +548,18 @@
       "level": "C1",
       "sourceCount": 1,
       "episodeCount": 1,
-      "version": 1,
-      "sizeBytes": 60979817,
+      "version": 2,
+      "sizeBytes": 62616468,
       "url": "",
-      "sha256": "324250791187f8a836813b4ce37a8bce91b7e0902f4b20ff106370db56dac194",
+      "sha256": "bf6343af08e427c74927a0959d70848f7e59d98ef1d018280dc9de4df8e7fdd4",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "publishedAt": "2026-07-17",
       "sourceId": "bloomberg_tech",
-      "vocabularyCount": 103,
-      "phraseCount": 31,
+      "vocabularyCount": 112,
+      "phraseCount": 46,
       "parts": [
         {
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2.podcast.zip.part-aa",
@@ -567,7 +567,7 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2.podcast.zip.part-ab",
-          "sizeBytes": 13793897
+          "sizeBytes": 15430548
         }
       ],
       "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
