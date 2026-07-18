@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-06-12T15:03:02.322Z",
+  "generatedAt": "2026-07-18T16:34:09.661Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -538,6 +538,39 @@
         }
       ],
       "imageUrl": ""
+    },
+    {
+      "id": "podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2",
+      "title": "Bloomberg Tech: China's Moonshot, Netflix's Slump & Greylock's $1.5B Bet",
+      "description": "Podcast 听力单集包，包含 China's Moonshot, Netflix's Slump & Greylock's $1.5B Bet 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 60979817,
+      "url": "",
+      "sha256": "324250791187f8a836813b4ce37a8bce91b7e0902f4b20ff106370db56dac194",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-17",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 103,
+      "phraseCount": 31,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2.podcast.zip.part-ab",
+          "sizeBytes": 13793897
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
     }
   ]
 }
