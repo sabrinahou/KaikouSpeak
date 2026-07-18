@@ -63,6 +63,28 @@
       "generatedAt": "2026-06-06T05:05:00Z"
     },
     {
+      "id": "scene-system_sports__football_live_commentary-v7",
+      "type": "scene_pack",
+      "packId": "system_sports__football_live_commentary",
+      "title": "Football Live Commentary (足球现场解说)",
+      "description": "运动 - 足球现场解说场景学习包。面向中高级学习者，覆盖真实转播中的快速解说信号、传控推进、边路传中、射门进球、防守门将、定位球混战、犯规越位 VAR、逼抢反击、欧冠两回合和世界杯出线解说。",
+      "level": "B1-B2",
+      "wordCount": 158,
+      "sentenceCount": 122,
+      "version": 7,
+      "sizeBytes": 98964766,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
+      "sha256": "ec87ecd4c60031e378c19b84e5ad47cb44579534c9892a8e4f30d1a95fbb87ea",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp",
+      "updatedAt": "2026-06-12T13:17:13Z",
+      "notes": "v7 补齐 12 个场景视频开场句和 1 个最终挑战提示的 OpenAI gpt-4o-mini-tts / echo 真人感美式英语发音；视频第一句不再回退系统 TTS。",
+      "generatedAt": "2026-06-12T13:17:13Z"
+    },
+    {
       "id": "podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79-v1",
       "type": "podcast_pack",
       "packId": "podcast_bloomberg_tech_8d1d26c9_f888_4c7b_a7b0_b4590114ae79",
@@ -353,26 +375,169 @@
       "imageUrl": "https://assets.pippa.io/shows/602590505e374d0dfd31bdd3/1781154057830-f5b54043-fd5b-4db9-b2c6-0b41cc086409.jpeg"
     },
     {
-      "id": "scene-system_sports__football_live_commentary-v7",
-      "type": "scene_pack",
-      "packId": "system_sports__football_live_commentary",
-      "title": "Football Live Commentary (足球现场解说)",
-      "description": "运动 - 足球现场解说场景学习包。面向中高级学习者，覆盖真实转播中的快速解说信号、传控推进、边路传中、射门进球、防守门将、定位球混战、犯规越位 VAR、逼抢反击、欧冠两回合和世界杯出线解说。",
-      "level": "B1-B2",
-      "wordCount": 158,
-      "sentenceCount": 122,
-      "version": 7,
-      "sizeBytes": 98964766,
-      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_sports__football_live_commentary.bundle.zip",
-      "sha256": "ec87ecd4c60031e378c19b84e5ad47cb44579534c9892a8e4f30d1a95fbb87ea",
+      "id": "podcast_bloomberg_tech_dbea902d_23a2_4640_b79b_b4810130b221-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_dbea902d_23a2_4640_b79b_b4810130b221",
+      "title": "Bloomberg Tech: Jittery Tech Markets; OpenAI Gets BofA Credit Line",
+      "description": "Podcast 听力单集包，包含 Jittery Tech Markets; OpenAI Gets BofA Credit Line 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 57507977,
+      "url": "",
+      "sha256": "97cc4cfeb2d0f802a4016dbb30de239ec36e88b0888b92573157c3c96a10033c",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
-      "imageUrl": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/images/system_sports__football_live_commentary.webp",
-      "updatedAt": "2026-06-12T13:17:13Z",
-      "notes": "v7 补齐 12 个场景视频开场句和 1 个最终挑战提示的 OpenAI gpt-4o-mini-tts / echo 真人感美式英语发音；视频第一句不再回退系统 TTS。",
-      "generatedAt": "2026-06-12T13:17:13Z"
+      "publishedAt": "2026-07-08",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 111,
+      "phraseCount": 33,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_dbea902d_23a2_4640_b79b_b4810130b221.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_dbea902d_23a2_4640_b79b_b4810130b221.podcast.zip.part-ab",
+          "sizeBytes": 10322057
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_vergecast_45ca3f60_6e7b_11f1_94bf_ef700f2d9d55-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_vergecast_45ca3f60_6e7b_11f1_94bf_ef700f2d9d55",
+      "title": "The Vergecast: It's still way too hard to switch phones",
+      "description": "Podcast 听力单集包，包含 It's still way too hard to switch phones 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 47272052,
+      "url": "",
+      "sha256": "3cb99011e73e398d255adaa4f4c96d12dcafdd6304eda44ef4de883fae45fc4b",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-08",
+      "sourceId": "vergecast",
+      "vocabularyCount": 9,
+      "phraseCount": 1,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_45ca3f60_6e7b_11f1_94bf_ef700f2d9d55.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_45ca3f60_6e7b_11f1_94bf_ef700f2d9d55.podcast.zip.part-ab",
+          "sizeBytes": 86132
+        }
+      ],
+      "imageUrl": ""
+    },
+    {
+      "id": "podcast_latent_space_substack_post_205716015-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_latent_space_substack_post_205716015",
+      "title": "Latent Space: The AI Engineer Podcast: Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO",
+      "description": "Podcast 听力单集包，包含 Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 61150236,
+      "url": "",
+      "sha256": "f8019214bc94b8dbf44d5a67adef22f745c3d6c11fdeb5706c3f073127194307",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-08",
+      "sourceId": "latent_space",
+      "vocabularyCount": 45,
+      "phraseCount": 12,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_205716015.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_latent_space_substack_post_205716015.podcast.zip.part-ab",
+          "sizeBytes": 13964316
+        }
+      ],
+      "imageUrl": "https://substackcdn.com/feed/podcast/1084089/post/205716015/02a47ebb7738eeed6d5cc48ec3f820b1.jpg"
+    },
+    {
+      "id": "podcast_bloomberg_tech_599d43df_1ffb_4880_bf93_b482010fdc71-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_599d43df_1ffb_4880_bf93_b482010fdc71",
+      "title": "Bloomberg Tech: SK Hynix US Listing Demand Soars",
+      "description": "Podcast 听力单集包，包含 SK Hynix US Listing Demand Soars 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 61474116,
+      "url": "",
+      "sha256": "b1277134f962a30e362ec75894e88ce188a9745406799d0751366a5ca3c0a6b5",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-09",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 118,
+      "phraseCount": 2,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_599d43df_1ffb_4880_bf93_b482010fdc71.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_599d43df_1ffb_4880_bf93_b482010fdc71.podcast.zip.part-ab",
+          "sizeBytes": 14288196
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_vergecast_45e4ab34_6e7b_11f1_94bf_132180f58180-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_vergecast_45e4ab34_6e7b_11f1_94bf_132180f58180",
+      "title": "The Vergecast: Time to believe the quantum computing hype?",
+      "description": "Podcast 听力单集包，包含 Time to believe the quantum computing hype? 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 47971379,
+      "url": "",
+      "sha256": "123c51ee98935a7b6378156f0ff53272bf1473ebb13a23cb8fb14b095cf3bc50",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-09",
+      "sourceId": "vergecast",
+      "vocabularyCount": 54,
+      "phraseCount": 6,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_45e4ab34_6e7b_11f1_94bf_132180f58180.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_vergecast_45e4ab34_6e7b_11f1_94bf_132180f58180.podcast.zip.part-ab",
+          "sizeBytes": 785459
+        }
+      ],
+      "imageUrl": ""
     }
   ]
 }
