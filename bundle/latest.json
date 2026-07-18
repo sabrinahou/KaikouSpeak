@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-07-18T19:05:00.000Z",
+  "generatedAt": "2026-07-18T20:04:21.720Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -573,26 +573,26 @@
       "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
     },
     {
-      "id": "podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2_quality_v2-v3",
+      "id": "podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2_quality_v2-v4",
       "type": "podcast_pack",
       "packId": "podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2_quality_v2",
-      "title": "Bloomberg Tech: China Moonshot, Netflix Slump & Greylock $1.5B Bet (chapter refresh)",
-      "description": "Podcast 听力单集包，复用本地音频和字幕，重新整理 7/17 Bloomberg Tech 每章节中英文任务摘要、专业/核心词汇、词组、中文解释、用法解释和字幕例句，并按章节去重。",
+      "title": "Bloomberg Tech: China Moonshot, Netflix Slump & Greylock $1.5B Bet (chapter refresh v4)",
+      "description": "Podcast 听力单集包，复用本地音频和字幕，按 5 个章节完整整理 7/17 Bloomberg Tech 的中英文任务摘要、专业词汇/专有名词、难词/核心词、高频词组、原声关键句、中文解释、用法解释和字幕例句，并做整集跨 Part 去重。",
       "level": "C1",
       "sourceCount": 1,
       "episodeCount": 1,
-      "version": 3,
-      "sizeBytes": 62628726,
+      "version": 4,
+      "sizeBytes": 62634169,
       "url": "",
-      "sha256": "30754416620c21b5283e31b24699be4235d35883eefe9ef44b4e2d23b0fb670a",
+      "sha256": "3adda38f68c4cdbc6920d247b09d4d06a13bdf2cda2065198312dcc378e93f1d",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
       },
       "publishedAt": "2026-07-17",
       "sourceId": "bloomberg_tech",
-      "vocabularyCount": 110,
-      "phraseCount": 45,
+      "vocabularyCount": 149,
+      "phraseCount": 53,
       "parts": [
         {
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2_quality_v2.podcast.zip.part-aa",
@@ -600,13 +600,13 @@
         },
         {
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_f2c5b397_6fe0_4278_9236_b48a0125ced2_quality_v2.podcast.zip.part-ab",
-          "sizeBytes": 15442806
+          "sizeBytes": 15448249
         }
       ],
       "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large",
-      "notes": "chapter-content-refresh using local transcript/audio; examples are rebound to subtitle sentence IDs, obvious ASR name errors are corrected locally, and public pack remains user-neutral while the app filters mastered vocabulary and phrases locally per user.",
-      "updatedAt": "2026-07-18T19:05:00.000Z",
-      "generatedAt": "2026-07-18T19:05:00.000Z"
+      "notes": "v4 applies the approved chapter-content summary rules: no fixed low cap per Part, four content buckets per chapter, transcript-sourced examples, and episode-level de-duplication so later Parts only add new word/phrase cards.",
+      "updatedAt": "2026-07-18T20:04:21.720Z",
+      "generatedAt": "2026-07-18T20:04:21.720Z"
     }
   ]
 }
