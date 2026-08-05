@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-07-26T03:59:01.725Z",
+  "generatedAt": "2026-08-05T14:33:12.653Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -666,6 +666,237 @@
         {
           "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_2a482424_c1d1_405a_b20a_b49200f06e97.podcast.zip.part-aa",
           "sizeBytes": 27109872
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_bloomberg_tech_3cbef197_c29b_4ff2_b450_b49401467e1f-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_3cbef197_c29b_4ff2_b450_b49401467e1f",
+      "title": "Bloomberg Tech: AI Industry’s Circular Financing Deals, Apple Smart Glasses",
+      "description": "Podcast 听力单集包，包含 AI Industry’s Circular Financing Deals, Apple Smart Glasses 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 60243583,
+      "url": "",
+      "sha256": "837221bbd075dae04f45cea4297b314a22c48dbd14e0b1310f7b8e53d40cc62b",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-27",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 99,
+      "phraseCount": 36,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_3cbef197_c29b_4ff2_b450_b49401467e1f.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_3cbef197_c29b_4ff2_b450_b49401467e1f.podcast.zip.part-ab",
+          "sizeBytes": 13057663
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_bloomberg_tech_ff63d6ea_0a39_4cb2_8478_b4950118eb16-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_ff63d6ea_0a39_4cb2_8478_b4950118eb16",
+      "title": "Bloomberg Tech: AI Trade Stumbles as Chip Stocks Slide",
+      "description": "Podcast 听力单集包，包含 AI Trade Stumbles as Chip Stocks Slide 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 61231008,
+      "url": "",
+      "sha256": "8373a7866ab3b11d90c291c7f28e6022ada5e06fd36b705ed94da39884dd33e7",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-28",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 106,
+      "phraseCount": 35,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_ff63d6ea_0a39_4cb2_8478_b4950118eb16.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_ff63d6ea_0a39_4cb2_8478_b4950118eb16.podcast.zip.part-ab",
+          "sizeBytes": 14045088
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_bloomberg_tech_7682e12f_e859_4afb_82cd_b496011c96bf-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_7682e12f_e859_4afb_82cd_b496011c96bf",
+      "title": "Bloomberg Tech: Markets Brace for Microsoft and Meta Earnings",
+      "description": "Podcast 听力单集包，包含 Markets Brace for Microsoft and Meta Earnings 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 62377008,
+      "url": "",
+      "sha256": "2d219f49e4461eab56b2832365f69ad798178f338aac9ce3acf949f94b5b9d7a",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-29",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 114,
+      "phraseCount": 41,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_7682e12f_e859_4afb_82cd_b496011c96bf.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_7682e12f_e859_4afb_82cd_b496011c96bf.podcast.zip.part-ab",
+          "sizeBytes": 15191088
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_bloomberg_tech_c1e4d4b0_08eb_4b17_ae51_b497014e935b-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_c1e4d4b0_08eb_4b17_ae51_b497014e935b",
+      "title": "Bloomberg Tech: AI Winners and Losers Emerge",
+      "description": "Podcast 听力单集包，包含 AI Winners and Losers Emerge 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 62992105,
+      "url": "",
+      "sha256": "9439ea762b066fb0506d078b6abf5681b55f2e543b0ffee1951aa8364dd7e073",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-30",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 116,
+      "phraseCount": 43,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_c1e4d4b0_08eb_4b17_ae51_b497014e935b.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_c1e4d4b0_08eb_4b17_ae51_b497014e935b.podcast.zip.part-ab",
+          "sizeBytes": 15806185
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_bloomberg_tech_7b2c5468_dfaa_4896_a7e0_b498011fc5bd-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_7b2c5468_dfaa_4896_a7e0_b498011fc5bd",
+      "title": "Bloomberg Tech: Amazon Soars, Apple Struggles, AI Faces New Scrutiny",
+      "description": "Podcast 听力单集包，包含 Amazon Soars, Apple Struggles, AI Faces New Scrutiny 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 64187421,
+      "url": "",
+      "sha256": "714aa1a6a7eda521fd94c0721b1d544d8a9b8e253b0ac16d38ae0677e543cf1e",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-07-31",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 119,
+      "phraseCount": 41,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_7b2c5468_dfaa_4896_a7e0_b498011fc5bd.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_7b2c5468_dfaa_4896_a7e0_b498011fc5bd.podcast.zip.part-ab",
+          "sizeBytes": 17001501
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_bloomberg_tech_37063ff1_3772_4430_bf32_b49b016a080a-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_37063ff1_3772_4430_bf32_b49b016a080a",
+      "title": "Bloomberg Tech: China's AI Push Meets Amazon's Cloud Surge",
+      "description": "Podcast 听力单集包，包含 China's AI Push Meets Amazon's Cloud Surge 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 60235232,
+      "url": "",
+      "sha256": "88bbad1be9fa47b9be351c6acd1bd7d4606d33ad6c8e0451547ee57e13d76c91",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-08-03",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 90,
+      "phraseCount": 29,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_37063ff1_3772_4430_bf32_b49b016a080a.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_37063ff1_3772_4430_bf32_b49b016a080a.podcast.zip.part-ab",
+          "sizeBytes": 13049312
+        }
+      ],
+      "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "podcast_bloomberg_tech_8d0b804c_0078_45ff_b7cb_b49c013c5a84-v1",
+      "type": "podcast_pack",
+      "packId": "podcast_bloomberg_tech_8d0b804c_0078_45ff_b7cb_b49c013c5a84",
+      "title": "Bloomberg Tech: Palantir Surges as AI Demand Accelerates",
+      "description": "Podcast 听力单集包，包含 Palantir Surges as AI Demand Accelerates 的章节、字幕/摘要、学习任务、完整音频和真人学习音频。",
+      "level": "C1",
+      "sourceCount": 1,
+      "episodeCount": 1,
+      "version": 1,
+      "sizeBytes": 60405059,
+      "url": "",
+      "sha256": "7adc7857d018f844b12c06da763b3100cffca165ee57262de45f08220c511fb0",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      },
+      "publishedAt": "2026-08-04",
+      "sourceId": "bloomberg_tech",
+      "vocabularyCount": 101,
+      "phraseCount": 35,
+      "parts": [
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_8d0b804c_0078_45ff_b7cb_b49c013c5a84.podcast.zip.part-aa",
+          "sizeBytes": 47185920
+        },
+        {
+          "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/podcast_bloomberg_tech_8d0b804c_0078_45ff_b7cb_b49c013c5a84.podcast.zip.part-ab",
+          "sizeBytes": 13219139
         }
       ],
       "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
