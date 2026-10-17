@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-08-05T14:33:12.653Z",
+  "generatedAt": "2026-10-17T19:02:44Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -900,6 +900,24 @@
         }
       ],
       "imageUrl": "https://www.omnycontent.com/d/playlist/e73c998e-6e60-432f-8610-ae210140c5b1/41764a4f-fc64-4e11-89ba-ae7c0030ab5e/9caafc41-289c-4115-995d-ae7c0030ab75/image.jpg?t=1749548917&size=Large"
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261016-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261016",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-16 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 10/16《Chip Stocks Slide as Apple Demand Surges》每日英语学习包：芯片股 2008 年来最长连跌、AI 债务担忧、CoreWeave 高杠杆、IPO 重启、折叠屏iPhone 与飞行 Roadster。24 词 / 12 短语 / 10 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1316660,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261016.bundle.zip",
+      "sha256": "79304886e0b27d72b0a551937093f370e6f8d785439aa5f5b6b4a9f6ea852d27",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
     }
   ]
 }
