@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-17T19:02:44Z",
+  "generatedAt": "2026-10-21T12:39:37Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -914,6 +914,24 @@
       "sizeBytes": 1316660,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261016.bundle.zip",
       "sha256": "79304886e0b27d72b0a551937093f370e6f8d785439aa5f5b6b4a9f6ea852d27",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261018_economyofscale-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261018_economyofscale",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-18-economy-of-scale (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-18-economy-of-scale《Economy of Scale: Smart Cities》每日英语学习包：24 词 / 12 短语 / 10 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1350025,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261018_economyofscale.bundle.zip",
+      "sha256": "c079b5fc42e1b36acc4aed9c7650b2b9856cd451fa151834bcb5c94ea243a055",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
