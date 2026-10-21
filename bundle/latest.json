@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-21T12:39:37Z",
+  "generatedAt": "2026-10-21T12:39:44Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -932,6 +932,24 @@
       "sizeBytes": 1350025,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261018_economyofscale.bundle.zip",
       "sha256": "c079b5fc42e1b36acc4aed9c7650b2b9856cd451fa151834bcb5c94ea243a055",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261018_ourtown-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261018_ourtown",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-18 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-18《BONUS SERIES: Our Town Chapter 4 | All Metal Mode》每日英语学习包：22 词 / 12 短语 / 9 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 22,
+      "sentenceCount": 9,
+      "version": 1,
+      "sizeBytes": 1198298,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261018_ourtown.bundle.zip",
+      "sha256": "612f43a691c6bf17a9e8080016743936663d37471c72327c49fc370493c41fdd",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
