@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-21T12:40:07Z",
+  "generatedAt": "2026-10-21T12:40:14Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -968,6 +968,24 @@
       "sizeBytes": 1636418,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261019.bundle.zip",
       "sha256": "f3c190e7403dfe3c77eff84550f9a66ecf4de608d7065930471c30dc7c7dd545",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261020-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261020",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-20 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-20《Earnings Special: SpaceX Profit Beats Estimates on Big Jump in AI Revenue》每日英语学习包：20 词 / 10 短语 / 10 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1643455,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261020.bundle.zip",
+      "sha256": "a4f1b5f3d60579fc7804aa79973f4724422869ee162bcf42af15210da03c3f7d",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
