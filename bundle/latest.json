@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-21T12:40:14Z",
+  "generatedAt": "2026-10-22T12:29:10Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -986,6 +986,24 @@
       "sizeBytes": 1643455,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261020.bundle.zip",
       "sha256": "a4f1b5f3d60579fc7804aa79973f4724422869ee162bcf42af15210da03c3f7d",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261021-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261021",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-21 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-21《Earnings Special: Meta Boosts Bet on AI With Spending Outlook, New Stock Class》每日英语学习包：20 词 / 10 短语 / 10 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1465758,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261021.bundle.zip",
+      "sha256": "bca34e5ea0d6a377f1b88386221a92ad3576562df631e62f7ed81dd05d495a0b",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
