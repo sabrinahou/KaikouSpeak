@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-23T12:26:54Z",
+  "generatedAt": "2026-10-24T12:26:20Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1022,6 +1022,24 @@
       "sizeBytes": 1527013,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261022.bundle.zip",
       "sha256": "0770517787153975f5d88f531c81e4685a54ed00c7f3d09feacdce6b18905896",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261023-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261023",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-23 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-23《OpenAI Moves Toward a $1.25 Trillion Value》每日英语学习包：20 词 / 10 短语 / 13 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 13,
+      "version": 1,
+      "sizeBytes": 1607751,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261023.bundle.zip",
+      "sha256": "9d19fc9ff60f1a4ec45b5b6c45a2ed174b5326bd19cd149057d6e981bceaa998",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
