@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-27T12:27:58Z",
+  "generatedAt": "2026-10-27T12:28:08Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1064,18 +1064,18 @@
       }
     },
     {
-      "id": "scene-system_drama__all_creatures_s02e03e04-v1",
+      "id": "scene-system_drama__all_creatures_s02e03e04-v2",
       "type": "scene_pack",
       "packId": "system_drama__all_creatures_s02e03e04",
       "title": "All Creatures Great and Small S02E03-E04 (万物生灵第二季)",
-      "description": "万物生灵第二季《We Can But Hope / Many Happy Returns》英语学习包：20 词 / 10 短语 / 10 例句 / 3 对话，3 个 Mission。",
+      "description": "万物生灵第二季《We Can But Hope / Many Happy Returns》英语学习包：34 词 / 8 短语 / 12 例句 / 0 对话，5 个 Mission。",
       "level": "B1-C1",
-      "wordCount": 20,
-      "sentenceCount": 10,
-      "version": 1,
-      "sizeBytes": 888535,
+      "wordCount": 34,
+      "sentenceCount": 12,
+      "version": 2,
+      "sizeBytes": 787139,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_drama__all_creatures_s02e03e04.bundle.zip",
-      "sha256": "dd23cb5c406804a830301a52f3a69dc9a98b40e5d326300c6d8dfb575689d4ef",
+      "sha256": "2f6a3dfd9d71442ef9a96cc2611b8cce4242614b6675d1be143c09463967788c",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
