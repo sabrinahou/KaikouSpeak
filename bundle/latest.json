@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-27T12:28:18Z",
+  "generatedAt": "2026-10-27T12:28:44Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1100,18 +1100,18 @@
       }
     },
     {
-      "id": "scene-system_drama__all_creatures_s02e07-v1",
+      "id": "scene-system_drama__all_creatures_s02e07-v2",
       "type": "scene_pack",
       "packId": "system_drama__all_creatures_s02e07",
       "title": "All Creatures Great and Small S02E07 (万物生灵第二季)",
-      "description": "万物生灵第二季《Christmas Special》英语学习包：20 词 / 10 短语 / 11 例句 / 3 对话，3 个 Mission。",
+      "description": "万物生灵第二季《Christmas Special》英语学习包：15 词 / 5 短语 / 10 例句 / 0 对话，4 个 Mission。",
       "level": "B1-C1",
-      "wordCount": 20,
-      "sentenceCount": 11,
-      "version": 1,
-      "sizeBytes": 950046,
+      "wordCount": 15,
+      "sentenceCount": 10,
+      "version": 2,
+      "sizeBytes": 556546,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_drama__all_creatures_s02e07.bundle.zip",
-      "sha256": "df0574a983596623c62beef3109da87ca0cc08f83916211cb0a5b16aed76fd3b",
+      "sha256": "df6dac462017c6e82358e12c7d339562b376d0c9837f703aec17c429837a99e9",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
