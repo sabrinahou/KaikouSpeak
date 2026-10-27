@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-24T12:26:20Z",
+  "generatedAt": "2026-10-27T02:43:59Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1040,6 +1040,24 @@
       "sizeBytes": 1607751,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261023.bundle.zip",
       "sha256": "9d19fc9ff60f1a4ec45b5b6c45a2ed174b5326bd19cd149057d6e981bceaa998",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_drama__all_creatures_s02e01e02-v1",
+      "type": "scene_pack",
+      "packId": "system_drama__all_creatures_s02e01e02",
+      "title": "All Creatures Great and Small S02E01-E02 (万物生灵第二季)",
+      "description": "万物生灵第二季《Where the Heart Is / Semper Progrediens》英语学习包：20 词 / 10 短语 / 10 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 964096,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_drama__all_creatures_s02e01e02.bundle.zip",
+      "sha256": "11270747fb4d7bf6e84402bf8ed593d6cc61269dd62cdc1a7e9860e2897e80bc",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
