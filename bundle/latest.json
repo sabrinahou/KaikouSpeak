@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-27T02:44:07Z",
+  "generatedAt": "2026-10-27T02:44:14Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1076,6 +1076,24 @@
       "sizeBytes": 888535,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_drama__all_creatures_s02e03e04.bundle.zip",
       "sha256": "dd23cb5c406804a830301a52f3a69dc9a98b40e5d326300c6d8dfb575689d4ef",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_drama__all_creatures_s02e05e06-v1",
+      "type": "scene_pack",
+      "packId": "system_drama__all_creatures_s02e05e06",
+      "title": "All Creatures Great and Small S02E05-E06 (万物生灵第二季)",
+      "description": "万物生灵第二季《The Last Man In / Home Truths》英语学习包：20 词 / 10 短语 / 10 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 853191,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_drama__all_creatures_s02e05e06.bundle.zip",
+      "sha256": "4064f4f3d1b6a5b75f8296817d1cdf3c73f7605eca9611473c01049b9775080c",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
