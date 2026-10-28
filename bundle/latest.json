@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-27T12:28:44Z",
+  "generatedAt": "2026-10-28T12:26:57Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1130,6 +1130,24 @@
       "sizeBytes": 1513102,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261026.bundle.zip",
       "sha256": "4395f2da612df72e79d24e1f74e8320c766296abab6216a5e88dc9ad16905b0c",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261027-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261027",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-27 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-27《Meta Boosts Equity Offering, Raising Its AI Bet & Anduril Founder Palmer Luckey》每日英语学习包：20 词 / 10 短语 / 12 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 12,
+      "version": 1,
+      "sizeBytes": 1497012,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261027.bundle.zip",
+      "sha256": "c56e860c0c6b86d0ba9e5d81b5cd9663d44551922e4c3797880583c3d20b7f1a",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
