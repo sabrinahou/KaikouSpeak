@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-29T12:28:45Z",
+  "generatedAt": "2026-10-30T12:27:12Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1166,6 +1166,24 @@
       "sizeBytes": 1816408,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261028.bundle.zip",
       "sha256": "b9b8d907beff8ef3b536c472ae791d31c48cb7188c1cb2f6a33f3333b4a42ad0",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261029-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261029",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-29 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-29《Earnings Special: Intel Plunges on PC Sales Slump & Amazon Slips》每日英语学习包：21 词 / 10 短语 / 12 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 21,
+      "sentenceCount": 12,
+      "version": 1,
+      "sizeBytes": 1456798,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261029.bundle.zip",
+      "sha256": "78cabcaa279e33fc78eeb50f5e1dcbc6e7895844fa7b093b2b9cf301e56891a6",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
