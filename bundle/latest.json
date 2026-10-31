@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-10-30T12:27:12Z",
+  "generatedAt": "2026-10-31T12:26:48Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1184,6 +1184,24 @@
       "sizeBytes": 1456798,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261029.bundle.zip",
       "sha256": "78cabcaa279e33fc78eeb50f5e1dcbc6e7895844fa7b093b2b9cf301e56891a6",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261030-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261030",
+      "title": "Bloomberg Tech Daily Vocab 2026-10-30 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-10-30《Instant Reaction: Wall Street Gets AI Wake-Up Call with Deep Tech Selloff》每日英语学习包：22 词 / 10 短语 / 10 例句 / 3 对话，3 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 22,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1420280,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261030.bundle.zip",
+      "sha256": "aec792c8147044854e32f51e8342a8c23ef4b52b00954095ee1fdb6167ca71d1",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
