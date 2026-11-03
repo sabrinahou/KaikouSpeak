@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-03T13:27:39Z",
+  "generatedAt": "2026-11-03T13:29:02Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1226,7 +1226,7 @@
       }
     },
     {
-      "id": "scene-system_news__bloomberg_daily_20261102-v1",
+      "id": "scene-system_news__bloomberg_daily_20261102-v2",
       "type": "scene_pack",
       "packId": "system_news__bloomberg_daily_20261102",
       "title": "Bloomberg Tech Daily Vocab 2026-11-02 (彭博科技每日词汇)",
@@ -1234,10 +1234,10 @@
       "level": "B1-C1",
       "wordCount": 20,
       "sentenceCount": 12,
-      "version": 1,
-      "sizeBytes": 1876849,
+      "version": 2,
+      "sizeBytes": 1886062,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261102.bundle.zip",
-      "sha256": "627a7058f36fc7f9dbea6b700841e2d3441c3d998f226a0d12b5b8d8dcc2c6aa",
+      "sha256": "4c0e7b1e6b874e8056596e679ed69d6a30ab14e68c7efac6ec44514b9f5eb88a",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
