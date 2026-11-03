@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-01T13:28:33Z",
+  "generatedAt": "2026-11-03T13:27:39Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1220,6 +1220,24 @@
       "sizeBytes": 1696939,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261031.bundle.zip",
       "sha256": "d700aea3d448647a071fc23c555c7719e6493d1627d8809609bbaee5777d4b09",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261102-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261102",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-02 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-02《Earnings Special: Apple's Forecast Disappoints, Despite Topping Estimates》每日英语学习包：20 词 / 10 短语 / 12 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 12,
+      "version": 1,
+      "sizeBytes": 1876849,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261102.bundle.zip",
+      "sha256": "627a7058f36fc7f9dbea6b700841e2d3441c3d998f226a0d12b5b8d8dcc2c6aa",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
