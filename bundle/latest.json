@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-04T13:28:30Z",
+  "generatedAt": "2026-11-05T13:27:54Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1256,6 +1256,24 @@
       "sizeBytes": 2050068,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261103.bundle.zip",
       "sha256": "638a9f6117e9ffbab7ef5abd731a6f37a80ede9218ebb8c9e12d5f92d4a6e064",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261104-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261104",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-04 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-04《Tech Mostly Higher After Democrats Win Control of Congress》每日英语学习包：20 词 / 10 短语 / 11 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 11,
+      "version": 1,
+      "sizeBytes": 1566399,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261104.bundle.zip",
+      "sha256": "bd5f79a431bd54588aafb81d2035c18c8bc6efe70d38aeece1a67b884fad018f",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
