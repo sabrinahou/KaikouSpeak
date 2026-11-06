@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-05T13:27:54Z",
+  "generatedAt": "2026-11-06T13:39:32Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1274,6 +1274,24 @@
       "sizeBytes": 1566399,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261104.bundle.zip",
       "sha256": "bd5f79a431bd54588aafb81d2035c18c8bc6efe70d38aeece1a67b884fad018f",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261105-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261105",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-05 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-05《Tech Tumbles as Data Center Buildout Faces New Scrutiny》每日英语学习包：22 词 / 10 短语 / 12 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 22,
+      "sentenceCount": 12,
+      "version": 1,
+      "sizeBytes": 1659025,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261105.bundle.zip",
+      "sha256": "b57d769c2a3d9082f49e36a8f88a80fdb02a4692a086257a4d0eb85927d944cf",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
