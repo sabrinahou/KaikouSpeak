@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-06T13:39:32Z",
+  "generatedAt": "2026-11-07T13:30:07Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1292,6 +1292,24 @@
       "sizeBytes": 1659025,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261105.bundle.zip",
       "sha256": "b57d769c2a3d9082f49e36a8f88a80fdb02a4692a086257a4d0eb85927d944cf",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261106-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261106",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-06 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-06《AI Trade Bounces Back as Investors Buy the Dip》每日英语学习包：24 词 / 12 短语 / 10 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1861555,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261106.bundle.zip",
+      "sha256": "87df9f52a7d74631199a558bdce3003a2c9dcc5702d35886d0651250e0c1a417",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
