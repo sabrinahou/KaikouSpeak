@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-08T13:28:48Z",
+  "generatedAt": "2026-11-10T13:29:18Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1328,6 +1328,24 @@
       "sizeBytes": 1955882,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261107.bundle.zip",
       "sha256": "e107e4c4cf00b037705457f3ee855debdad79603dd705120d0e41c90dc3b2850",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261109-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261109",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-09 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-09《Nvidia Investigation Raises New China Security Questions》每日英语学习包：24 词 / 12 短语 / 10 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1890655,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261109.bundle.zip",
+      "sha256": "cf027a94547c7c5248527de045f1d7e169cef490695c86db5f422466fca4395b",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
