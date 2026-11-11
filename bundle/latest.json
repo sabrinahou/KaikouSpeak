@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-10T13:29:18Z",
+  "generatedAt": "2026-11-11T13:30:00Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1346,6 +1346,24 @@
       "sizeBytes": 1890655,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261109.bundle.zip",
       "sha256": "cf027a94547c7c5248527de045f1d7e169cef490695c86db5f422466fca4395b",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261110-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261110",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-10 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-10《Anthropic Goes Big as Nvidia, SoftBank Face Pressure》每日英语学习包：24 词 / 12 短语 / 10 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 2209854,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261110.bundle.zip",
+      "sha256": "172386f55b314f7823d5a98734178ff71da57b4dbdf2a19d26bea4cac426e0e4",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
