@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-12T13:32:17Z",
+  "generatedAt": "2026-11-13T13:31:54Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1382,6 +1382,24 @@
       "sizeBytes": 2050548,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261111.bundle.zip",
       "sha256": "0eb67f94cf7d20a6dc898ac7814e09e82a126609aa5c8b653951bb5def007df8",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261112-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261112",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-12 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-12《Jensen Huang Resigns Amid Affair Scandal》每日英语学习包：20 词 / 10 短语 / 12 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 12,
+      "version": 1,
+      "sizeBytes": 2050861,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261112.bundle.zip",
+      "sha256": "fc9ac0fc6a6ab9b09da67cacb7a04f496dc56a363eddcb996133c97a8b1e3a5a",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
