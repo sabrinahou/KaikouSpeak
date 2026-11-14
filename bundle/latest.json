@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-13T13:31:54Z",
+  "generatedAt": "2026-11-14T13:31:05Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1400,6 +1400,24 @@
       "sizeBytes": 2050861,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261112.bundle.zip",
       "sha256": "fc9ac0fc6a6ab9b09da67cacb7a04f496dc56a363eddcb996133c97a8b1e3a5a",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261114-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261114",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-14 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-14《Weekend Listen: Apple's Former Chief Chip Architect on the AI Chip Race》每日英语学习包：24 词 / 12 短语 / 12 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 12,
+      "version": 1,
+      "sizeBytes": 2112470,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261114.bundle.zip",
+      "sha256": "6caeb11bd447d930631db5db589774cf399bbadb76056553263e31666019dc8c",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
