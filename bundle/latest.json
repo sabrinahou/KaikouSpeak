@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-14T13:31:05Z",
+  "generatedAt": "2026-11-17T13:30:31Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1418,6 +1418,24 @@
       "sizeBytes": 2112470,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261114.bundle.zip",
       "sha256": "6caeb11bd447d930631db5db589774cf399bbadb76056553263e31666019dc8c",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261116-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261116",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-16 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-16《Nvidia Faces CEO Test as Trump Heads to China》每日英语学习包：24 词 / 11 短语 / 12 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 12,
+      "version": 1,
+      "sizeBytes": 1913384,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261116.bundle.zip",
+      "sha256": "9c148b472345b82b3abdcbf03459c86f018c4ac6c8d0940746ce558c5472ca1c",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
