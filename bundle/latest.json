@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-19T13:29:57Z",
+  "generatedAt": "2026-11-20T13:29:53Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1472,6 +1472,24 @@
       "sizeBytes": 1887838,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261118.bundle.zip",
       "sha256": "805934e6af5fa03378ac7ab4eeca5a5ead7bd80d8061a86e24e1912d353cccc6",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261119-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261119",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-19 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-19《Anthropic Goes Public After Record-Breaking IPO》每日英语学习包：20 词 / 10 短语 / 10 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 2034178,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261119.bundle.zip",
+      "sha256": "cb6bf93fb830365c827634533bf69d95902b8241d473e2876d109b7d27aac4b6",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
