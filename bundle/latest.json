@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-20T13:29:53Z",
+  "generatedAt": "2026-11-21T13:28:12Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1490,6 +1490,24 @@
       "sizeBytes": 2034178,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261119.bundle.zip",
       "sha256": "cb6bf93fb830365c827634533bf69d95902b8241d473e2876d109b7d27aac4b6",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261120-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261120",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-20 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-20《AI Trade Tumbles as Anthropic Retreats From Debut》每日英语学习包：24 词 / 10 短语 / 10 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 24,
+      "sentenceCount": 10,
+      "version": 1,
+      "sizeBytes": 1937139,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261120.bundle.zip",
+      "sha256": "5088c4c21eaea064d2aa9c92ee5d941830007656f0536a9458e67032ceffd46f",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
