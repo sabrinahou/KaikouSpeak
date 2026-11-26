@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "channel": "github-main",
-  "generatedAt": "2026-11-25T13:32:25Z",
+  "generatedAt": "2026-11-26T13:37:00Z",
   "minAppVersionCode": 1,
   "bundles": [
     {
@@ -1562,6 +1562,24 @@
       "sizeBytes": 2115330,
       "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261124.bundle.zip",
       "sha256": "8132a735298084262d8bae8a774f1c19d40366a1f1f5420ae014e8dc2d92133b",
+      "signature": "local-test-unsigned",
+      "encryption": {
+        "mode": "none"
+      }
+    },
+    {
+      "id": "scene-system_news__bloomberg_daily_20261125-v1",
+      "type": "scene_pack",
+      "packId": "system_news__bloomberg_daily_20261125",
+      "title": "Bloomberg Tech Daily Vocab 2026-11-25 (彭博科技每日词汇)",
+      "description": "彭博 Bloomberg Tech 2026-11-25《Nvidia Slides as Tech Rout Pushes Nasdaq Into Bear Market》每日英语学习包：20 词 / 10 短语 / 11 例句 / 4 对话，4 个 Mission。",
+      "level": "B1-C1",
+      "wordCount": 20,
+      "sentenceCount": 11,
+      "version": 1,
+      "sizeBytes": 2155975,
+      "url": "https://raw.githubusercontent.com/sabrinahou/KaikouSpeak/main/bundle/system_news__bloomberg_daily_20261125.bundle.zip",
+      "sha256": "d61f1a725f29ea194b5e6214c305f25465f78b9c91e4e3355a224222dc6790a7",
       "signature": "local-test-unsigned",
       "encryption": {
         "mode": "none"
